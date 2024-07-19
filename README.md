@@ -16,4 +16,4 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 npm i expo
 ```
 4. Install latest compatible node version with ``expo — nvm install —lts``.
-5. To run app, do ``npx expo``.# vipcare-v2-pub
+5. To run app, do ``npx expo``.
